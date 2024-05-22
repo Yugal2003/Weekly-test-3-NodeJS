@@ -1,0 +1,4 @@
+{"firstName":"Yugal","lastName":"Kumbhare","email":"yugalramesh6832@gmail.com","password":"Hello1@#","phoneNumber":"9316110894"}
+{"firstName":"Om","lastName":"Nikam","email":"omnikam944@gmail.com","password":"Hiiwe1@#","phoneNumber":"9173065941"}
+{"firstName":"Rahul","lastName":"Paunikar","email":"rahulpaunikar@gmail.com","password":"Hiiwwe1@#","phoneNumber":"1245789512"}
+{"firstName":"Bhavik","lastName":"Kumbhare","email":"bk@gmail.com","password":"Hiiwwe1@#","phoneNumber":"3154789421"}

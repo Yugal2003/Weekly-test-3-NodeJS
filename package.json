@@ -1,0 +1,15 @@
+{
+  "name": "weekly_test_3",
+  "version": "1.0.0",
+  "description": "weekly_test_3",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Yugal\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
